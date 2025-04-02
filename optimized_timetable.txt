@@ -1,0 +1,16 @@
+Train	Station	Arrival	Departure
+Train 1	A	-	0.00
+Train 1	B	23.00	25.00
+Train 1	C	43.00	45.00
+Train 1	D	63.00	65.00
+Train 1	E	90.00	-
+Train 2	A	-	30.00
+Train 2	B	53.00	55.00
+Train 2	C	73.00	75.00
+Train 2	D	93.00	95.00
+Train 2	E	120.00	-
+Train 3	A	-	60.00
+Train 3	B	83.00	85.00
+Train 3	C	103.00	105.00
+Train 3	D	123.00	125.00
+Train 3	E	150.00	-
